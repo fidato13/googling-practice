@@ -1,0 +1,29 @@
+Dynamic Programming:
+Below are base class problems in dp and their related variations
+
+https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.
+
+1. 0-1 Knapsack Problems
+    - This is the class of dp problems , which is related to below problems:
+        0) 0/1 KnapSack Problem - https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+        i) Subset Sum - https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
+        ii) Equal Sum Partition - https://leetcode.com/problems/partition-equal-subset-sum/
+        iii) Count of Subset Sum - https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/
+        iv) Minimum Subset Sum diff - https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/
+        v) Target Sum - https://leetcode.com/problems/target-sum/
+        vi) count the number of subset with given difference - Refer java class
+
+2. unbounded Knapsack
+    0) Unbounded Knapsack - https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/
+    i) Rod Cutting - https://www.geeksforgeeks.org/cutting-a-rod-dp-13/
+    ii) Coin change I - https://www.geeksforgeeks.org/understanding-the-coin-change-problem-with-dynamic-programming/
+    iii) Coin Change II - https://www.educative.io/edpresso/coin-change-problem-1-in-javafinding-the-minimum-number-of-coins
+    iv) Maximum Ribbon cut
+3. Fibonacci
+4. LCS - Lowest common subsequence
+5. LIS - Longest increasing subsequence
+6. Kadane's Algo
+7. Matrix Chain multiplication
+8. Dp on Trees
+9. Dp on Grid
+10. others
