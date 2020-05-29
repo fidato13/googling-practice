@@ -1,7 +1,9 @@
 Dynamic Programming:
 Below are base class problems in dp and their related variations
 
+Imp Links:
 https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.
+https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
 
 1. 0-1 Knapsack Problems
     - This is the class of dp problems , which is related to below problems:
@@ -20,7 +22,23 @@ https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-T
     iii) Coin Change II - https://www.educative.io/edpresso/coin-change-problem-1-in-javafinding-the-minimum-number-of-coins
     iv) Maximum Ribbon cut
 3. Fibonacci
-4. LCS - Lowest common subsequence
+4. LCS - Longest common subsequence
+    Following are the problems implementing the pattern:
+    0) Longest Common Subsequence - https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+    i) Longest Common Substring - https://www.geeksforgeeks.org/longest-common-substring-dp-29/
+    ii) Print LCS - https://www.geeksforgeeks.org/printing-longest-common-subsequence/
+    iii) Shortest Common Supersequence - https://www.geeksforgeeks.org/shortest-common-supersequence/
+    iv) Print SCS - https://www.geeksforgeeks.org/shortest-common-supersequence/
+    v) Min number of insertions and deletions a -> b - https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/
+    vi) Largest Repeating Subsequence - https://www.geeksforgeeks.org/longest-repeating-subsequence/
+    vii) Length of largest Subsequence of "a" which is a substring in "b"
+    viii) Subsequence Pattern Matching - See java problem in lcsfamily
+    ix) Count how many times "a" appear as subsequence in "b"
+    x) Longest Palindromic Subsequence - https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/
+    xi) Largest Palindromic Substring
+    xii) Count of Palindromic substring
+    xiii) Min number of Deletion in a string to make it a palindrome - https://www.geeksforgeeks.org/minimum-number-deletions-make-string-palindrome/
+    xiv) Min number of Insertion in a string to make it a palindrome - https://www.geeksforgeeks.org/minimum-insertions-to-form-a-palindrome-dp-28/
 5. LIS - Longest increasing subsequence
 6. Kadane's Algo
 7. Matrix Chain multiplication
