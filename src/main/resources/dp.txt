@@ -4,6 +4,7 @@ Below are base class problems in dp and their related variations
 Imp Links:
 https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.
 https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
+https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
 
 1. 0-1 Knapsack Problems
     - This is the class of dp problems , which is related to below problems:
@@ -42,6 +43,17 @@ https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems
 5. LIS - Longest increasing subsequence
 6. Kadane's Algo
 7. Matrix Chain multiplication
+    0) MCM - https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
+    i) Printing MCM
+    ii) Evaluate Expr to True (Booelan Parenthesization) --- SKIPPING FOR NOW
+    iii) Min/Max Value of an Expression
+    iv) Palindrome Partitioning - https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/
+    v) Scramble String --- SKIPPING FOR NOW
+    vi) Egg Dropping Problem - https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
 8. Dp on Trees
+    0) Diameter of a binary tree
+    i) Maximum Path sum from any node to any
+    ii) Maximum Path sum from leaf to leafs
+    iii) Diameter of N-ary tree
 9. Dp on Grid
 10. others

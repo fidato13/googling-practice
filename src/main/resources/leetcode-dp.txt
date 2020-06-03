@@ -1,0 +1,7 @@
+Problems Solved:
+===================
+
+Longest Increasing Subsequence Pattern:
+1. Longest Increasing Subsequence - [https://leetcode.com/problems/longest-increasing-subsequence/]
+2. Maximum Length of Pair Chain - [https://leetcode.com/problems/maximum-length-of-pair-chain/]
+3. Number of Longest Increasing Subsequence - [https://leetcode.com/problems/number-of-longest-increasing-subsequence/]
