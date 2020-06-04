@@ -1,7 +1,26 @@
+Imp Links:
+==========
+https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.
+https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
+https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
+
 Problems Solved:
 ===================
 
 Longest Increasing Subsequence Pattern:
+--------------------------------------
 1. Longest Increasing Subsequence - [https://leetcode.com/problems/longest-increasing-subsequence/]
 2. Maximum Length of Pair Chain - [https://leetcode.com/problems/maximum-length-of-pair-chain/]
 3. Number of Longest Increasing Subsequence - [https://leetcode.com/problems/number-of-longest-increasing-subsequence/]
+4. Largest Divisible Subset - [https://leetcode.com/problems/largest-divisible-subset/]
+5. Longest String Chain - [https://leetcode.com/problems/longest-string-chain/]
+
+Longest Common Subsequence Pattern:
+-----------------------------------
+1. Delete Operation for Two Strings - [https://leetcode.com/problems/delete-operation-for-two-strings/]
+
+
+
+Unknown Pattern:
+1. Delete and Earn - [https://leetcode.com/problems/delete-and-earn/] ... somewhat felt like 0/1 knapsack
+2. House Robber - [https://leetcode.com/problems/house-robber/] .. somewhat felt like 0/1 knapsack
