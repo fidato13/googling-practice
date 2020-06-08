@@ -3,6 +3,7 @@ Imp Links:
 https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.
 https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
+https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
 
 Problems Solved:
 ===================
@@ -24,12 +25,13 @@ Longest Common Subsequence Pattern:
 MCM Pattern:
 ------------
 1. Palindromic Substrings - [https://leetcode.com/problems/palindromic-substrings/]
+2. Minimum Score Triangulation of Polygon - [https://leetcode.com/problems/minimum-score-triangulation-of-polygon/]
 
 
 0/1 Knapsack Pattern:
 ---------------------
 1. Partition Equal Subset Sum - [https://leetcode.com/problems/partition-equal-subset-sum/]
-2. Last Stone Weight II - [https://leetcode.com/problems/last-stone-weight-ii/] ... exactly like "Min Subset sum diff"
+2. Last Stone Weight II - [https://leetcode.com/problems/last-stone-weight-ii/] ***exactly like "Min Subset sum diff"***
 
 Unbounded Knapsack Pattern:
 ---------------------------
