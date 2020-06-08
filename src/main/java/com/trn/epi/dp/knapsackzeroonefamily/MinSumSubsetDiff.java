@@ -50,7 +50,7 @@ public class MinSumSubsetDiff {
             width /= 2;
         }
 
-        for(int j = width; j >= width; j--){
+        for(int j = width; j >= 0; j--){
             if(dp[nums.length][j]){
                 return Math.abs((2 * j) - total);
             }
@@ -63,7 +63,7 @@ public class MinSumSubsetDiff {
     public static void main(String[] args) {
         MinSumSubsetDiff m1 = new MinSumSubsetDiff();
 
-        int[] nums = new int[]{1, 6, 11, 5};
+        int[] nums = new int[]{2,7,4,1,8,1};
 
         int result = m1.minDiffSubsets(nums);
 

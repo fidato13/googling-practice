@@ -29,6 +29,7 @@ MCM Pattern:
 0/1 Knapsack Pattern:
 ---------------------
 1. Partition Equal Subset Sum - [https://leetcode.com/problems/partition-equal-subset-sum/]
+2. Last Stone Weight II - [https://leetcode.com/problems/last-stone-weight-ii/] ... exactly like "Min Subset sum diff"
 
 Unbounded Knapsack Pattern:
 ---------------------------
@@ -44,3 +45,4 @@ Unknown Pattern:
 2. House Robber - [https://leetcode.com/problems/house-robber/] .. somewhat felt like 0/1 knapsack
 3. Partition to K Equal Sum Subsets - [https://leetcode.com/problems/partition-to-k-equal-sum-subsets/] .. more like a backtracking , as well as in MCM theme where we try almost every thing
 4. Combination Sum IV - [https://leetcode.com/problems/combination-sum-iv/]
+5. Minimum Cost For Tickets - [https://leetcode.com/problems/minimum-cost-for-tickets/] ***INTERESTING_ONE***
