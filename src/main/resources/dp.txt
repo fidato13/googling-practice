@@ -5,6 +5,7 @@ Imp Links:
 https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.
 https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
+https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
 
 1. 0-1 Knapsack Problems
     - This is the class of dp problems , which is related to below problems:
