@@ -14,13 +14,33 @@ Longest Increasing Subsequence Pattern:
 3. Number of Longest Increasing Subsequence - [https://leetcode.com/problems/number-of-longest-increasing-subsequence/]
 4. Largest Divisible Subset - [https://leetcode.com/problems/largest-divisible-subset/]
 5. Longest String Chain - [https://leetcode.com/problems/longest-string-chain/]
+6. Russian Doll Envelopes - [https://leetcode.com/problems/russian-doll-envelopes/]
 
 Longest Common Subsequence Pattern:
 -----------------------------------
 1. Delete Operation for Two Strings - [https://leetcode.com/problems/delete-operation-for-two-strings/]
+2. Distinct Subsequences - [https://leetcode.com/problems/distinct-subsequences/]
+
+MCM Pattern:
+------------
+1. Palindromic Substrings - [https://leetcode.com/problems/palindromic-substrings/]
+
+
+0/1 Knapsack Pattern:
+---------------------
+1. Partition Equal Subset Sum - [https://leetcode.com/problems/partition-equal-subset-sum/]
+
+Unbounded Knapsack Pattern:
+---------------------------
+1. Coin Change - [https://leetcode.com/problems/coin-change/]
+2. Coin Change 2 - [https://leetcode.com/problems/coin-change-2/]
+3. Perfect Squares - [https://leetcode.com/problems/perfect-squares/]
 
 
 
 Unknown Pattern:
+----------------
 1. Delete and Earn - [https://leetcode.com/problems/delete-and-earn/] ... somewhat felt like 0/1 knapsack
 2. House Robber - [https://leetcode.com/problems/house-robber/] .. somewhat felt like 0/1 knapsack
+3. Partition to K Equal Sum Subsets - [https://leetcode.com/problems/partition-to-k-equal-sum-subsets/] .. more like a backtracking , as well as in MCM theme where we try almost every thing
+4. Combination Sum IV - [https://leetcode.com/problems/combination-sum-iv/]
