@@ -5,6 +5,10 @@ https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
 https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
 
+Questions Specific Imp Links:
+=============================
+(***Matrix Block sum / Range Prefix Pattern***) - [https://leetcode.com/problems/matrix-block-sum/discuss/620405/Easy-Prefix-Logic-Explanation-with-Matrix-Example-%3A-Python-Soution]
+
 Problems Solved:
 ===================
 
@@ -26,6 +30,8 @@ MCM Pattern:
 ------------
 1. Palindromic Substrings - [https://leetcode.com/problems/palindromic-substrings/]
 2. Minimum Score Triangulation of Polygon - [https://leetcode.com/problems/minimum-score-triangulation-of-polygon/]
+3. Minimum Cost Tree From Leaf Values - [https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/]
+4. Burst Balloons - [https://leetcode.com/problems/burst-balloons/]
 
 
 0/1 Knapsack Pattern:
@@ -40,6 +46,13 @@ Unbounded Knapsack Pattern:
 3. Perfect Squares - [https://leetcode.com/problems/perfect-squares/]
 
 
+Matrix Block sum (Range Prefix) Pattern:
+---------------------------------------
+1. Matrix Block Sum - [https://leetcode.com/problems/matrix-block-sum/]
+2. Range Sum Query 2D Immutable - [https://leetcode.com/problems/range-sum-query-2d-immutable/]
+3. Triangle - [https://leetcode.com/problems/triangle/]
+4. Maximal Square - [https://leetcode.com/problems/maximal-square/]
+5. Minimum Falling Path Sum - [https://leetcode.com/problems/minimum-falling-path-sum/]
 
 Unknown Pattern:
 ----------------
@@ -48,3 +61,4 @@ Unknown Pattern:
 3. Partition to K Equal Sum Subsets - [https://leetcode.com/problems/partition-to-k-equal-sum-subsets/] .. more like a backtracking , as well as in MCM theme where we try almost every thing
 4. Combination Sum IV - [https://leetcode.com/problems/combination-sum-iv/]
 5. Minimum Cost For Tickets - [https://leetcode.com/problems/minimum-cost-for-tickets/] ***INTERESTING_ONE***
+6. Dungeon Game - [https://leetcode.com/problems/dungeon-game/]
