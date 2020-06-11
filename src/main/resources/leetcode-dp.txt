@@ -22,6 +22,7 @@ Longest Increasing Subsequence Pattern:
 5. Longest String Chain - [https://leetcode.com/problems/longest-string-chain/]
 6. Russian Doll Envelopes - [https://leetcode.com/problems/russian-doll-envelopes/]
 7. Longest Arithmetic Sequence - [https://leetcode.com/problems/longest-arithmetic-sequence/]
+8.  Longest Arithmetic Subsequence of Given Difference - [https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/]
 
 Longest Common Subsequence Pattern:
 -----------------------------------
@@ -40,6 +41,7 @@ MCM Pattern:
 ---------------------
 1. Partition Equal Subset Sum - [https://leetcode.com/problems/partition-equal-subset-sum/]
 2. Last Stone Weight II - [https://leetcode.com/problems/last-stone-weight-ii/] ***exactly like "Min Subset sum diff"***
+3. Target Sum - [https://leetcode.com/problems/target-sum/] ***Beautiful Solution approach for dp in the official solution page, it shows first the recursive approach, then memoize it, Ideally how a dp solution should be done!, revise it again*** ... It looks like a 0/1 knapsack type...i.e. subset sum problem .. see this [https://leetcode.com/problems/target-sum/discuss/97334/Java-(15-ms)-C%2B%2B-(3-ms)-O(ns)-iterative-DP-solution-using-subset-sum-with-explanation]
 
 Unbounded Knapsack Pattern:
 ---------------------------
@@ -64,4 +66,4 @@ Unknown Pattern:
 4. Combination Sum IV - [https://leetcode.com/problems/combination-sum-iv/]
 5. Minimum Cost For Tickets - [https://leetcode.com/problems/minimum-cost-for-tickets/] ***INTERESTING_ONE***
 6. Dungeon Game - [https://leetcode.com/problems/dungeon-game/]
-7. Target Sum - [https://leetcode.com/problems/target-sum/] ***Beautiful Solution approach for dp in the official solution page, it shows first the recursive approach, then memoize it, Ideally how a dp solution should be done!, revise it again*** ... It looks like a 0/1 knapsack type...i.e. subset sum problem .. see this [https://leetcode.com/problems/target-sum/discuss/97334/Java-(15-ms)-C%2B%2B-(3-ms)-O(ns)-iterative-DP-solution-using-subset-sum-with-explanation]
+7. Maximum Product of Splitted Binary Tree - [https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/]
