@@ -8,6 +8,7 @@ https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patte
 Questions Specific Imp Links:
 =============================
 (***Matrix Block sum / Range Prefix Pattern***) - [https://leetcode.com/problems/matrix-block-sum/discuss/620405/Easy-Prefix-Logic-Explanation-with-Matrix-Example-%3A-Python-Soution]
+(***Target Sum***) - [https://leetcode.com/problems/target-sum/discuss/97334/Java-(15-ms)-C%2B%2B-(3-ms)-O(ns)-iterative-DP-solution-using-subset-sum-with-explanation]
 
 Problems Solved:
 ===================
@@ -20,6 +21,7 @@ Longest Increasing Subsequence Pattern:
 4. Largest Divisible Subset - [https://leetcode.com/problems/largest-divisible-subset/]
 5. Longest String Chain - [https://leetcode.com/problems/longest-string-chain/]
 6. Russian Doll Envelopes - [https://leetcode.com/problems/russian-doll-envelopes/]
+7. Longest Arithmetic Sequence - [https://leetcode.com/problems/longest-arithmetic-sequence/]
 
 Longest Common Subsequence Pattern:
 -----------------------------------
@@ -62,3 +64,4 @@ Unknown Pattern:
 4. Combination Sum IV - [https://leetcode.com/problems/combination-sum-iv/]
 5. Minimum Cost For Tickets - [https://leetcode.com/problems/minimum-cost-for-tickets/] ***INTERESTING_ONE***
 6. Dungeon Game - [https://leetcode.com/problems/dungeon-game/]
+7. Target Sum - [https://leetcode.com/problems/target-sum/] ***Beautiful Solution approach for dp in the official solution page, it shows first the recursive approach, then memoize it, Ideally how a dp solution should be done!, revise it again*** ... It looks like a 0/1 knapsack type...i.e. subset sum problem .. see this [https://leetcode.com/problems/target-sum/discuss/97334/Java-(15-ms)-C%2B%2B-(3-ms)-O(ns)-iterative-DP-solution-using-subset-sum-with-explanation]
