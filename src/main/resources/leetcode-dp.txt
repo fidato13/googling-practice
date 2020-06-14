@@ -9,6 +9,7 @@ Questions Specific Imp Links:
 =============================
 (***Matrix Block sum / Range Prefix Pattern***) - [https://leetcode.com/problems/matrix-block-sum/discuss/620405/Easy-Prefix-Logic-Explanation-with-Matrix-Example-%3A-Python-Soution]
 (***Target Sum***) - [https://leetcode.com/problems/target-sum/discuss/97334/Java-(15-ms)-C%2B%2B-(3-ms)-O(ns)-iterative-DP-solution-using-subset-sum-with-explanation]
+(***Best Time to Buy and Sell Stock IV***) - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/discuss/54114/Easy-understanding-and-can-be-easily-modified-to-different-situations-Java-Solution]
 
 Problems Solved:
 ===================
@@ -58,6 +59,16 @@ Matrix Block sum (Range Prefix) Pattern:
 4. Maximal Square - [https://leetcode.com/problems/maximal-square/]
 5. Minimum Falling Path Sum - [https://leetcode.com/problems/minimum-falling-path-sum/]
 
+DFS with DP Pattern:
+--------------------
+1. Out of Boundary Paths - [https://leetcode.com/problems/out-of-boundary-paths/]
+2. Knight Probability in Chessboard - [https://leetcode.com/problems/knight-probability-in-chessboard/]
+
+MiniMax Pattern:
+----------------
+1. Predict the Winner - [https://leetcode.com/problems/predict-the-winner/]
+2. Stone Game - [https://leetcode.com/problems/stone-game/]
+
 Unknown Pattern:
 ----------------
 1. Delete and Earn - [https://leetcode.com/problems/delete-and-earn/] ... somewhat felt like 0/1 knapsack
@@ -67,3 +78,6 @@ Unknown Pattern:
 5. Minimum Cost For Tickets - [https://leetcode.com/problems/minimum-cost-for-tickets/] ***INTERESTING_ONE***
 6. Dungeon Game - [https://leetcode.com/problems/dungeon-game/]
 7. Maximum Product of Splitted Binary Tree - [https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/]
+8. Best Time to Buy and Sell Stock - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/]
+9. Best Time to Buy and Sell Stock III - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/]
+10. Best Time to Buy and Sell Stock IV - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/]
