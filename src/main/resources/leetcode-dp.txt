@@ -69,6 +69,10 @@ MiniMax Pattern:
 1. Predict the Winner - [https://leetcode.com/problems/predict-the-winner/]
 2. Stone Game - [https://leetcode.com/problems/stone-game/]
 
+Fibonacci Pattern:
+------------------
+1. Decode Ways - [https://leetcode.com/problems/decode-ways/]
+
 Unknown Pattern:
 ----------------
 1. Delete and Earn - [https://leetcode.com/problems/delete-and-earn/] ... somewhat felt like 0/1 knapsack
@@ -81,3 +85,6 @@ Unknown Pattern:
 8. Best Time to Buy and Sell Stock - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/]
 9. Best Time to Buy and Sell Stock III - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/]
 10. Best Time to Buy and Sell Stock IV - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/]
+11. Greatest Sum Divisible by Three - [https://leetcode.com/problems/greatest-sum-divisible-by-three/]
+12. Longest Turbulent Subarray - [https://leetcode.com/problems/longest-turbulent-subarray/]
+13. Number of Dice Rolls With Target Sum - [https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/]
