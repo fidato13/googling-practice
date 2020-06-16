@@ -2,14 +2,17 @@ Imp Links:
 ==========
 https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.
 https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
+https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions/561738
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
 https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+
 
 Questions Specific Imp Links:
 =============================
 (***Matrix Block sum / Range Prefix Pattern***) - [https://leetcode.com/problems/matrix-block-sum/discuss/620405/Easy-Prefix-Logic-Explanation-with-Matrix-Example-%3A-Python-Soution]
 (***Target Sum***) - [https://leetcode.com/problems/target-sum/discuss/97334/Java-(15-ms)-C%2B%2B-(3-ms)-O(ns)-iterative-DP-solution-using-subset-sum-with-explanation]
 (***Best Time to Buy and Sell Stock IV***) - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/discuss/54114/Easy-understanding-and-can-be-easily-modified-to-different-situations-Java-Solution]
+(***Length of Longest Fibonacci Subsequence***) - [https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/]
 
 Problems Solved:
 ===================
@@ -24,6 +27,7 @@ Longest Increasing Subsequence Pattern:
 6. Russian Doll Envelopes - [https://leetcode.com/problems/russian-doll-envelopes/]
 7. Longest Arithmetic Sequence - [https://leetcode.com/problems/longest-arithmetic-sequence/]
 8.  Longest Arithmetic Subsequence of Given Difference - [https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/]
+9. Length of Longest Fibonacci Subsequence - [https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/] ... ***MUST_REVISE***
 
 Longest Common Subsequence Pattern:
 -----------------------------------
@@ -72,6 +76,10 @@ MiniMax Pattern:
 Fibonacci Pattern:
 ------------------
 1. Decode Ways - [https://leetcode.com/problems/decode-ways/]
+2. Min Cost Climbing Stairs - [https://leetcode.com/problems/min-cost-climbing-stairs/]
+3. Climbing Stairs - [https://leetcode.com/problems/climbing-stairs/]
+4. Fibonacci Number - [https://leetcode.com/problems/fibonacci-number/]
+5. N-th Tribonacci Number - [https://leetcode.com/problems/n-th-tribonacci-number/]
 
 Unknown Pattern:
 ----------------
