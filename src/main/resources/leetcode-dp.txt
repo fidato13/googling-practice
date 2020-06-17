@@ -33,6 +33,7 @@ Longest Common Subsequence Pattern:
 -----------------------------------
 1. Delete Operation for Two Strings - [https://leetcode.com/problems/delete-operation-for-two-strings/]
 2. Distinct Subsequences - [https://leetcode.com/problems/distinct-subsequences/]
+3. Longest Palindromic Subsequence - [https://leetcode.com/problems/longest-palindromic-subsequence/]
 
 MCM Pattern:
 ------------
@@ -67,11 +68,14 @@ DFS with DP Pattern:
 --------------------
 1. Out of Boundary Paths - [https://leetcode.com/problems/out-of-boundary-paths/]
 2. Knight Probability in Chessboard - [https://leetcode.com/problems/knight-probability-in-chessboard/]
+3. Unique Paths II - [https://leetcode.com/problems/unique-paths-ii/]
+4. Longest ZigZag Path in a Binary Tree - [https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/]
 
 MiniMax Pattern:
 ----------------
 1. Predict the Winner - [https://leetcode.com/problems/predict-the-winner/]
 2. Stone Game - [https://leetcode.com/problems/stone-game/]
+3. Stone Game II - [https://leetcode.com/problems/stone-game-ii/] .... ***MUST_REVISE***
 
 Fibonacci Pattern:
 ------------------
@@ -96,3 +100,4 @@ Unknown Pattern:
 11. Greatest Sum Divisible by Three - [https://leetcode.com/problems/greatest-sum-divisible-by-three/]
 12. Longest Turbulent Subarray - [https://leetcode.com/problems/longest-turbulent-subarray/]
 13. Number of Dice Rolls With Target Sum - [https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/]
+14. Filling Bookcase Shelves - [https://leetcode.com/problems/filling-bookcase-shelves/]
